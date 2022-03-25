@@ -7,7 +7,7 @@ This Script is for everyone, not for Sale
 <p align="center">
 	<img src="hhttps://telegra.ph/file/0a3e6f18dd45bed1aa197.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nah-Botz</h1>
+<h1 align="center">Hisouka-Morou</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 

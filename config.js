@@ -13,16 +13,16 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'ad9e14dd7c',
 }
 
 // Other
-global.owner = ['6285162634171','6285748894171']
-global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
-global.bot = 'NahBotz-MD²'
+global.owner = ['6281398750388','628991567502']
+global.web = 'https://youtu.be/iik25wqIuFo'
+global.bot = 'Ka3Yes-MD²'
 global.premium = ['6285748894171']
-global.packname = 'NakataArdnt'
-global.author = 'Nakata'
+global.packname = 'Ka3Yes-MD'
+global.author = 'Rizky'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -39,7 +39,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 200
 }
 global.thumb = fs.readFileSync('./media/nakata.jpg')
 
